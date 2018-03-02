@@ -1,2 +1,2 @@
-# NanoChallengeARKit
-Develop an app in about 5 days using the new ARKit framework from Swift.
+# ARKit plane detector
+Plane detector developed using swift 4.0 ARKit framework
